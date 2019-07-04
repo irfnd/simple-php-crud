@@ -1,6 +1,6 @@
 # SIMPLE PHP CRUD - SINGLE PAGE
 
-Menggunakan XAMPP (Webserver, PHP, MySQL).
+Menggunakan XAMPP (Webserver, PHP, MySQL). tanpa template/CSS/bootstrap.
 
 Referensi :
 * <https://codewithawa.com/posts/php-crud-create,-edit,-update-and-delete-posts-with-mysql-database>
