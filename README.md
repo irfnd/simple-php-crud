@@ -1,4 +1,4 @@
-# SIMPLE PHP CRUD - SINGLE PAGE
+# Simple PHP CRUD - Single Page
 
 Menggunakan XAMPP (Webserver, PHP, MySQL). tanpa template/CSS/bootstrap.
 
